@@ -9,6 +9,16 @@
 
 ---
 
+### Example Bot Execution / 機器人執行示例
+
+- **Example 1: Real-Time Trading Signal and Order Logging** / **實時交易信號與訂單記錄**  
+  <img src="./images/example1.jpg" alt="Example 1" width="700"/>
+
+- **Example 2: Backtesting Strategy Simulation** / **回測策略模擬**  
+  <img src="./images/example2.jpg" alt="Example 2" width="1400"/>
+  
+---
+
 ## Features / 功能
 
 - **Automated Trading**: Automatically places market orders based on trading signals.
