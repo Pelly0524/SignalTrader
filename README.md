@@ -162,10 +162,3 @@ BINANCE_FEE = 0.001  # Binance trading fee (0.1%)
 
 - **Monitor Performance / 監控機器人性能**: Regularly monitor your bot's performance and adjust parameters as needed.  
   定期監控機器人的表現，根據需要調整參數。  
-
----
-
-## License / 授權
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-此專案採用 MIT 授權，詳細內容請參閱 [LICENSE](LICENSE) 文件。
